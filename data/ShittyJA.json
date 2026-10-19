@@ -9,5 +9,11 @@
     "fps": "120",
     "CBF": "No",
     "records": [
+        {
+            "user": "StumbonGD",
+            "link": "https://discord.com/channels/1550560707085344858/1561413515229536286/1561413515229536286",
+            "hz": "120",
+            "percent": 100
+        }
     ]
 }
