@@ -1,15 +1,5 @@
 [
     {
-        "role": "owner",
-        "name": "StumbonGD",
-        "link": "https://www.youtube.com/@stumbongd"
-    },
-    {
-        "role": "admin",
-        "name": "BtonyRL",
-        "link": "https://www.youtube.com/@BtonyRL"
-    },
-    {
         "role": "helper",
         "name": "ClawBuckle",
         "link": "https://www.youtube.com/@EFG1tMSZ0Z"
@@ -18,10 +8,5 @@
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "dev",
-        "name": "Emonadeo",
-        "link": "https://www.youtube.com/@emonadeo"
     }
 ]
